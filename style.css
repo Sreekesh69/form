@@ -1,0 +1,15 @@
+body{
+   
+    background-image: url("https://images.freeimages.com/images/large-previews/1e1/stucco-texture-11-1557708.jpg");
+    background-repeat: repeat-x;
+    background: size 300px;
+    
+}
+.Registration{
+    border: 2px solid black;
+    width: 320px;
+    height: 360px;
+    margin: 100px 200px;
+    background-color: beige;
+
+}
